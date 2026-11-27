@@ -1,0 +1,387 @@
+{
+  "img-1925": {
+    "source": "IMG_1925.JPG.jpeg",
+    "sourceMtime": 1795737513835,
+    "width": 1800,
+    "height": 1198,
+    "color": "#180808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      1800
+    ]
+  },
+  "img-7665": {
+    "source": "IMG_7665.JPG.jpeg",
+    "sourceMtime": 1795737499846,
+    "width": 4000,
+    "height": 6000,
+    "color": "#c8d8d8",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-7685": {
+    "source": "IMG_7685.JPG.jpeg",
+    "sourceMtime": 1795737231470,
+    "width": 4096,
+    "height": 6144,
+    "color": "#b8c8c8",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-7692": {
+    "source": "IMG_7692.JPG.jpeg",
+    "sourceMtime": 1795737511833,
+    "width": 4004,
+    "height": 6007,
+    "color": "#d8d8e8",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-7715": {
+    "source": "IMG_7715.JPG.jpeg",
+    "sourceMtime": 1795737120319,
+    "width": 4000,
+    "height": 6000,
+    "color": "#084848",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-9585": {
+    "source": "IMG_9585.JPG.jpeg",
+    "sourceMtime": 1795737516726,
+    "width": 4000,
+    "height": 6000,
+    "color": "#d88878",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-9557": {
+    "source": "IMG_9557.JPG.jpeg",
+    "sourceMtime": 1795738280397,
+    "width": 4000,
+    "height": 6000,
+    "color": "#680808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-9558": {
+    "source": "IMG_9558.JPG.jpeg",
+    "sourceMtime": 1795738274426,
+    "width": 4000,
+    "height": 6000,
+    "color": "#980808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-9564": {
+    "source": "IMG_9564.JPG.jpeg",
+    "sourceMtime": 1795738271846,
+    "width": 3729,
+    "height": 5593,
+    "color": "#f87868",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-9571": {
+    "source": "IMG_9571.JPG.jpeg",
+    "sourceMtime": 1795738266495,
+    "width": 4000,
+    "height": 6000,
+    "color": "#b8c898",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-9574": {
+    "source": "IMG_9574.JPG.jpeg",
+    "sourceMtime": 1795738277520,
+    "width": 4000,
+    "height": 6000,
+    "color": "#a80808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-9578": {
+    "source": "IMG_9578.JPG.jpeg",
+    "sourceMtime": 1795738257443,
+    "width": 3533,
+    "height": 5299,
+    "color": "#f8a898",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-9584": {
+    "source": "IMG_9584.JPG.jpeg",
+    "sourceMtime": 1795738269553,
+    "width": 4000,
+    "height": 6000,
+    "color": "#98a868",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-1028": {
+    "source": "IMG_1028.PNG",
+    "sourceMtime": 1795738468618,
+    "width": 1184,
+    "height": 1863,
+    "color": "#786858",
+    "widths": [
+      480,
+      800,
+      1184
+    ]
+  },
+  "img-1029": {
+    "source": "IMG_1029.HEIC.jpg",
+    "sourceMtime": 1795738538732,
+    "width": 2160,
+    "height": 3840,
+    "color": "#a8a888",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-3241": {
+    "source": "IMG_3241.JPEG",
+    "sourceMtime": 1795738411873,
+    "width": 1280,
+    "height": 1920,
+    "color": "#181818",
+    "widths": [
+      480,
+      800,
+      1200,
+      1280
+    ]
+  },
+  "img-3251": {
+    "source": "IMG_3251.JPEG",
+    "sourceMtime": 1795738417179,
+    "width": 1280,
+    "height": 1920,
+    "color": "#181818",
+    "widths": [
+      480,
+      800,
+      1200,
+      1280
+    ]
+  },
+  "img-5808": {
+    "source": "IMG_5808.JPG.jpeg",
+    "sourceMtime": 1795738422153,
+    "width": 3848,
+    "height": 5899,
+    "color": "#680808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-5830": {
+    "source": "IMG_5830.JPG.jpeg",
+    "sourceMtime": 1795738414877,
+    "width": 4160,
+    "height": 6240,
+    "color": "#380808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-5875": {
+    "source": "IMG_5875.JPG.jpeg",
+    "sourceMtime": 1795738423931,
+    "width": 4160,
+    "height": 6240,
+    "color": "#080808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-5923": {
+    "source": "IMG_5923.JPG.jpeg",
+    "sourceMtime": 1795738426390,
+    "width": 3814,
+    "height": 5712,
+    "color": "#080808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-6935": {
+    "source": "IMG_6935.JPG.jpeg",
+    "sourceMtime": 1795738398809,
+    "width": 2640,
+    "height": 3953,
+    "color": "#080808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-8120": {
+    "source": "IMG_8120.JPG.jpeg",
+    "sourceMtime": 1795738406392,
+    "width": 1365,
+    "height": 2048,
+    "color": "#080808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1365
+    ]
+  },
+  "img-8122": {
+    "source": "IMG_8122.JPG.jpeg",
+    "sourceMtime": 1795738403898,
+    "width": 1365,
+    "height": 2048,
+    "color": "#080808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1365
+    ]
+  },
+  "img-8132": {
+    "source": "IMG_8132.JPG.jpeg",
+    "sourceMtime": 1795738401432,
+    "width": 1365,
+    "height": 2048,
+    "color": "#080808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1365
+    ]
+  },
+  "img-9147": {
+    "source": "IMG_9147.JPG.jpeg",
+    "sourceMtime": 1795738463852,
+    "width": 3043,
+    "height": 4564,
+    "color": "#080808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-9155": {
+    "source": "IMG_9155.JPG.jpeg",
+    "sourceMtime": 1795738408919,
+    "width": 4160,
+    "height": 6240,
+    "color": "#080808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  },
+  "img-9586": {
+    "source": "IMG_9586.JPG.jpeg",
+    "sourceMtime": 1795738395425,
+    "width": 4000,
+    "height": 6000,
+    "color": "#780808",
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      2000
+    ]
+  }
+}

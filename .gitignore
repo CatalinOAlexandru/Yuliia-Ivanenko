@@ -1,0 +1,8 @@
+# Design sketch (kept local)
+Untitled_Artwork.pdf
+
+# Original full-size photos stay local; `npm run images` writes the web versions to build/assets/img/
+data/
+
+node_modules/
+.DS_Store

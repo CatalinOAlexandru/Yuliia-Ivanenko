@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-27T00:34:21+00:00",
+  "title": "Design System: Yuliia Ivanenko",
+  "extensions": {
+    "colorMeta": {
+      "peach": {
+        "role": "neutral",
+        "displayName": "Studio Sweep Peach",
+        "canonical": "#f3bba3",
+        "oklch": "oklch(83.7% 0.073 44.3)",
+        "tonalRamp": [
+          "oklch(15% 0.031 44.3)",
+          "oklch(26% 0.042 44.3)",
+          "oklch(37% 0.054 44.3)",
+          "oklch(48% 0.066 44.3)",
+          "oklch(59% 0.069 44.3)",
+          "oklch(70% 0.057 44.3)",
+          "oklch(82% 0.044 44.3)",
+          "oklch(95% 0.031 44.3)"
+        ]
+      },
+      "peach-soft": {
+        "role": "neutral",
+        "displayName": "Lit Peach",
+        "canonical": "#f7cdb9",
+        "oklch": "oklch(87.9% 0.055 46.9)",
+        "tonalRamp": [
+          "oklch(15% 0.023 46.9)",
+          "oklch(26% 0.032 46.9)",
+          "oklch(37% 0.041 46.9)",
+          "oklch(48% 0.049 46.9)",
+          "oklch(59% 0.052 46.9)",
+          "oklch(70% 0.043 46.9)",
+          "oklch(82% 0.033 46.9)",
+          "oklch(95% 0.023 46.9)"
+        ]
+      },
+      "peach-light": {
+        "role": "neutral",
+        "displayName": "Highlight Peach",
+        "canonical": "#fbe3d6",
+        "oklch": "oklch(93.2% 0.032 50.4)",
+        "tonalRamp": [
+          "oklch(15% 0.013 50.4)",
+          "oklch(26% 0.018 50.4)",
+          "oklch(37% 0.023 50.4)",
+          "oklch(48% 0.029 50.4)",
+          "oklch(59% 0.030 50.4)",
+          "oklch(70% 0.025 50.4)",
+          "oklch(82% 0.019 50.4)",
+          "oklch(95% 0.013 50.4)"
+        ]
+      },
+      "peach-dim": {
+        "role": "neutral",
+        "displayName": "Dimmed Peach",
+        "canonical": "#e9b9a6",
+        "oklch": "oklch(82.4% 0.062 42.7)",
+        "tonalRamp": [
+          "oklch(15% 0.026 42.7)",
+          "oklch(26% 0.036 42.7)",
+          "oklch(37% 0.046 42.7)",
+          "oklch(48% 0.055 42.7)",
+          "oklch(59% 0.058 42.7)",
+          "oklch(70% 0.048 42.7)",
+          "oklch(82% 0.037 42.7)",
+          "oklch(95% 0.026 42.7)"
+        ],
+        "note": "Hard-coded in site.css (not yet a custom property); reused for secondary text on the red field and in the lightbox."
+      },
+      "red": {
+        "role": "primary",
+        "displayName": "Hoop Red",
+        "canonical": "#a11f1b",
+        "oklch": "oklch(46.2% 0.166 27.9)",
+        "tonalRamp": [
+          "oklch(15% 0.070 27.9)",
+          "oklch(26% 0.096 27.9)",
+          "oklch(37% 0.123 27.9)",
+          "oklch(48% 0.149 27.9)",
+          "oklch(59% 0.157 27.9)",
+          "oklch(70% 0.130 27.9)",
+          "oklch(82% 0.101 27.9)",
+          "oklch(95% 0.070 27.9)"
+        ]
+      },
+      "red-deep": {
+        "role": "primary",
+        "displayName": "Cabaret Red",
+        "canonical": "#8b1714",
+        "oklch": "oklch(41.3% 0.151 28.0)",
+        "tonalRamp": [
+          "oklch(15% 0.063 28.0)",
+          "oklch(26% 0.087 28.0)",
+          "oklch(37% 0.112 28.0)",
+          "oklch(48% 0.136 28.0)",
+          "oklch(59% 0.142 28.0)",
+          "oklch(70% 0.118 28.0)",
+          "oklch(82% 0.092 28.0)",
+          "oklch(95% 0.063 28.0)"
+        ]
+      },
+      "oxblood": {
+        "role": "neutral",
+        "displayName": "Oxblood",
+        "canonical": "#2e0a09",
+        "oklch": "oklch(20.9% 0.059 25.3)",
+        "tonalRamp": [
+          "oklch(15% 0.025 25.3)",
+          "oklch(26% 0.034 25.3)",
+          "oklch(37% 0.044 25.3)",
+          "oklch(48% 0.053 25.3)",
+          "oklch(59% 0.056 25.3)",
+          "oklch(70% 0.046 25.3)",
+          "oklch(82% 0.036 25.3)",
+          "oklch(95% 0.025 25.3)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Oxblood Ink",
+        "canonical": "#3a0e0c",
+        "oklch": "oklch(24.0% 0.070 26.4)",
+        "tonalRamp": [
+          "oklch(15% 0.029 26.4)",
+          "oklch(26% 0.041 26.4)",
+          "oklch(37% 0.052 26.4)",
+          "oklch(48% 0.063 26.4)",
+          "oklch(59% 0.066 26.4)",
+          "oklch(70% 0.055 26.4)",
+          "oklch(82% 0.043 26.4)",
+          "oklch(95% 0.029 26.4)"
+        ]
+      },
+      "ink-soft": {
+        "role": "neutral",
+        "displayName": "Faded Ink",
+        "canonical": "#7a2a22",
+        "oklch": "oklch(40.3% 0.113 28.8)",
+        "tonalRamp": [
+          "oklch(15% 0.047 28.8)",
+          "oklch(26% 0.066 28.8)",
+          "oklch(37% 0.084 28.8)",
+          "oklch(48% 0.102 28.8)",
+          "oklch(59% 0.107 28.8)",
+          "oklch(70% 0.089 28.8)",
+          "oklch(82% 0.069 28.8)",
+          "oklch(95% 0.047 28.8)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The hero name only, two lines."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section headings; newsletter heading steps down to clamp(2rem, 3.6vw, 2.75rem)."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Discipline names under plates."
+      },
+      "lede": {
+        "displayName": "Lede",
+        "purpose": "First paragraph of About."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Reading text, measure capped near 36rem."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "Sub-captions, field labels, errors, lightbox captions, in the field's secondary colour."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Pills and wordmark."
+      }
+    },
+    "shadows": [],
+    "hairline": {
+      "name": "line",
+      "value": "1.5px",
+      "purpose": "The single stroke weight for rules, beams, ropes, underlines, pill borders and the hoop. Focus outline (2px) is the one exception."
+    },
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "The one easing curve for entrances and fill/underline transitions. A few colour/border transitions (links, inputs, social and lightbox buttons) still run on the browser default ease (drift)."
+      },
+      {
+        "name": "develop",
+        "value": "opacity 0 -> 1 over 1.2s, filter blur(14px) -> 0 over 1.4s, translate 0 1.5rem -> 0 over 1.2s",
+        "purpose": "Photographs entering the viewport, once (IntersectionObserver adds/removes .pending)."
+      },
+      {
+        "name": "develop-lightbox",
+        "value": "0.8s, from opacity 0 and blur(10px)",
+        "purpose": "Lightbox image on open and on each navigation."
+      },
+      {
+        "name": "rope-drop",
+        "value": "scaleY(0) -> 1, 0.9s, 0.15s delay, transform-origin top",
+        "purpose": "Hero rope on load, once."
+      },
+      {
+        "name": "ring-close",
+        "value": "stroke-dashoffset 1 -> 0 on pathLength 1, 2s, 0.6s delay",
+        "purpose": "Hero hoop drawn closed on load, once."
+      },
+      {
+        "name": "state",
+        "value": "0.35s",
+        "purpose": "Pill and round-button fill and colour changes."
+      },
+      {
+        "name": "plate-hover",
+        "value": "scale 1 -> 1.025 over 0.9s inside a clipped frame",
+        "purpose": "Portfolio plate hover."
+      },
+      {
+        "name": "reduced-motion",
+        "value": ".motion class only added when prefers-reduced-motion is not reduce (or ?static)",
+        "purpose": "All entrances are skipped under reduced motion; smooth scroll is disabled."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "sm",
+        "value": "600px"
+      },
+      {
+        "name": "nav",
+        "value": "760px"
+      },
+      {
+        "name": "lg",
+        "value": "960px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Outline Pill",
+      "kind": "button",
+      "refersTo": "button-pill",
+      "description": "Default button: hairline ring that fills with ink on hover (Contact me, Download CV).",
+      "html": "<div style=\"background:#f3bba3;padding:24px\"><a class=\"ds-pill\" href=\"#\">Contact me</a></div>",
+      "css": ".ds-pill { display: inline-flex; align-items: center; justify-content: center; gap: 0.55em; min-height: 2.875rem; padding: 0.55em 1.35em 0.6em; border: var(--line, 1.5px) solid var(--ink, #3a0e0c); border-radius: 999px; background: transparent; color: var(--ink, #3a0e0c); font-family: \"Jost\", \"Futura\", \"Century Gothic\", sans-serif; font-weight: 500; font-size: 1rem; line-height: 1; letter-spacing: 0.01em; text-decoration: none; cursor: pointer; transition: background-color 0.35s cubic-bezier(0.16, 1, 0.3, 1), color 0.35s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.35s cubic-bezier(0.16, 1, 0.3, 1); } .ds-pill:hover { background: var(--ink, #3a0e0c); color: var(--peach, #f3bba3); } .ds-pill:focus-visible { outline: 2px solid var(--red, #a11f1b); outline-offset: 4px; }"
+    },
+    {
+      "name": "Solid Pill",
+      "kind": "button",
+      "refersTo": "button-solid",
+      "description": "Primary action per section; ink fill turning Hoop Red on hover.",
+      "html": "<div style=\"background:#f3bba3;padding:24px\"><button class=\"ds-pill ds-pill-solid\">Get in touch</button></div>",
+      "css": ".ds-pill { display: inline-flex; align-items: center; justify-content: center; gap: 0.55em; min-height: 2.875rem; padding: 0.55em 1.35em 0.6em; border: var(--line, 1.5px) solid var(--ink, #3a0e0c); border-radius: 999px; background: transparent; color: var(--ink, #3a0e0c); font-family: \"Jost\", \"Futura\", \"Century Gothic\", sans-serif; font-weight: 500; font-size: 1rem; line-height: 1; letter-spacing: 0.01em; text-decoration: none; cursor: pointer; transition: background-color 0.35s cubic-bezier(0.16, 1, 0.3, 1), color 0.35s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.35s cubic-bezier(0.16, 1, 0.3, 1); } .ds-pill-solid { background: var(--ink, #3a0e0c); color: var(--peach-light, #fbe3d6); } .ds-pill-solid:hover { background: var(--red, #a11f1b); border-color: var(--red, #a11f1b); } .ds-pill:focus-visible { outline: 2px solid var(--red, #a11f1b); outline-offset: 4px; }"
+    },
+    {
+      "name": "Light Pill",
+      "kind": "button",
+      "refersTo": "button-light",
+      "description": "Pill for the red field (newsletter Sign up).",
+      "html": "<div style=\"background:#8b1714;padding:24px\"><button class=\"ds-pill ds-pill-light\">Sign up</button></div>",
+      "css": ".ds-pill { display: inline-flex; align-items: center; justify-content: center; gap: 0.55em; min-height: 2.875rem; padding: 0.55em 1.35em 0.6em; border: var(--line, 1.5px) solid var(--ink, #3a0e0c); border-radius: 999px; background: transparent; color: var(--ink, #3a0e0c); font-family: \"Jost\", \"Futura\", \"Century Gothic\", sans-serif; font-weight: 500; font-size: 1rem; line-height: 1; letter-spacing: 0.01em; text-decoration: none; cursor: pointer; transition: background-color 0.35s cubic-bezier(0.16, 1, 0.3, 1), color 0.35s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.35s cubic-bezier(0.16, 1, 0.3, 1); } .ds-pill-light { border-color: var(--peach-light, #fbe3d6); color: var(--peach-light, #fbe3d6); } .ds-pill-light:hover { background: var(--peach-light, #fbe3d6); color: var(--red-deep, #8b1714); } .ds-pill-light:focus-visible { outline: 2px solid var(--peach-light, #fbe3d6); outline-offset: 4px; }"
+    },
+    {
+      "name": "Hairline Link",
+      "kind": "custom",
+      "refersTo": "link",
+      "description": "Inline link with a red 1.5px underline whose offset opens on hover.",
+      "html": "<div style=\"background:#f3bba3;padding:24px;color:#3a0e0c\"><a class=\"ds-link\" href=\"#\">Download CV</a></div>",
+      "css": ".ds-link { font-family: \"Jost\", \"Futura\", \"Century Gothic\", sans-serif; color: inherit; text-decoration: underline; text-decoration-color: var(--red, #a11f1b); text-decoration-thickness: 1.5px; text-underline-offset: 0.3em; transition: text-underline-offset 0.4s cubic-bezier(0.16, 1, 0.3, 1), color 0.3s; } .ds-link:hover { text-underline-offset: 0.45em; color: var(--red, #a11f1b); } .ds-link:focus-visible { outline: 2px solid var(--red, #a11f1b); outline-offset: 4px; }"
+    },
+    {
+      "name": "Underline Field",
+      "kind": "input",
+      "refersTo": "input-underline",
+      "description": "Boxless field on a hairline underline; focus turns it red, doubles it and lights the field.",
+      "html": "<div style=\"background:#f3bba3;padding:24px;color:#3a0e0c\"><label class=\"ds-field\"><span>Email</span><input type=\"email\" placeholder=\"you@example.com\"></label></div>",
+      "css": ".ds-field { display: grid; gap: 0.35rem; font-family: \"Jost\", \"Futura\", \"Century Gothic\", sans-serif; } .ds-field span { font-size: 0.95rem; color: var(--ink-soft, #7a2a22); } .ds-field input { width: 100%; padding: 0.6rem 0.1rem; border: 0; border-bottom: 1.5px solid var(--ink, #3a0e0c); border-radius: 0; background: transparent; color: inherit; font-family: \"Jost\", \"Futura\", \"Century Gothic\", sans-serif; font-size: 1.125rem; line-height: 1.5; caret-color: var(--red, #a11f1b); transition: border-color 0.3s, background-color 0.3s, box-shadow 0.3s; } .ds-field input:focus { outline: none; } .ds-field input:focus-visible { border-bottom-color: var(--red, #a11f1b); box-shadow: 0 1.5px 0 var(--red, #a11f1b); background: var(--peach-soft, #f7cdb9); }"
+    },
+    {
+      "name": "Rigging Bar",
+      "kind": "nav",
+      "refersTo": "nav",
+      "description": "Header bar: wordmark left, links and the Contact pill right, a 1.5px ink beam beneath.",
+      "html": "<div style=\"background:#f3bba3;color:#3a0e0c\"><header class=\"ds-bar\"><a class=\"ds-wordmark\" href=\"#\">Yuliia Ivanenko</a><nav><a class=\"ds-navlink\" href=\"#\">Disciplines</a><a class=\"ds-navlink\" href=\"#\">About</a><a class=\"ds-pill\" href=\"#\">Contact me</a></nav></header></div>",
+      "css": ".ds-pill { display: inline-flex; align-items: center; justify-content: center; gap: 0.55em; min-height: 2.875rem; padding: 0.55em 1.35em 0.6em; border: var(--line, 1.5px) solid var(--ink, #3a0e0c); border-radius: 999px; background: transparent; color: var(--ink, #3a0e0c); font-family: \"Jost\", \"Futura\", \"Century Gothic\", sans-serif; font-weight: 500; font-size: 1rem; line-height: 1; letter-spacing: 0.01em; text-decoration: none; cursor: pointer; transition: background-color 0.35s cubic-bezier(0.16, 1, 0.3, 1), color 0.35s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.35s cubic-bezier(0.16, 1, 0.3, 1); } .ds-pill:hover { background: #3a0e0c; color: #f3bba3; } .ds-bar { position: relative; display: flex; align-items: center; justify-content: space-between; height: 5.5rem; padding-inline: 2rem; font-family: \"Jost\", \"Futura\", \"Century Gothic\", sans-serif; } .ds-bar::after { content: \"\"; position: absolute; left: 2rem; right: 2rem; bottom: 0; height: 1.5px; background: var(--ink, #3a0e0c); opacity: 0.85; } .ds-bar nav { display: flex; align-items: center; gap: 2rem; } .ds-wordmark { font-weight: 500; font-size: 1.0625rem; letter-spacing: 0.01em; color: inherit; text-decoration: none; } .ds-navlink { color: inherit; text-decoration: none; font-size: 0.975rem; padding-bottom: 0.2em; background: linear-gradient(#a11f1b, #a11f1b) left bottom / 0 1.5px no-repeat; transition: background-size 0.45s cubic-bezier(0.16, 1, 0.3, 1); } .ds-navlink:hover { background-size: 100% 1.5px; }"
+    },
+    {
+      "name": "Round Icon Button",
+      "kind": "button",
+      "refersTo": "button-round",
+      "description": "3rem circle with a translucent peach hairline; social links and lightbox controls.",
+      "html": "<div style=\"background:#8b1714;padding:24px\"><a class=\"ds-round\" href=\"#\" aria-label=\"Instagram\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"5\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/></svg></a></div>",
+      "css": ".ds-round { display: grid; place-items: center; width: 3rem; height: 3rem; border: 1.5px solid rgb(251 227 214 / 0.45); border-radius: 999px; color: var(--peach-light, #fbe3d6); transition: border-color 0.3s, background-color 0.35s cubic-bezier(0.16, 1, 0.3, 1), color 0.35s cubic-bezier(0.16, 1, 0.3, 1); } .ds-round svg { width: 1.3rem; height: 1.3rem; fill: none; stroke: currentColor; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; } .ds-round:hover { border-color: #fbe3d6; background: #fbe3d6; color: var(--red-deep, #8b1714); } .ds-round:focus-visible { outline: 2px solid #fbe3d6; outline-offset: 4px; }"
+    },
+    {
+      "name": "Hung Hoop",
+      "kind": "custom",
+      "refersTo": "lyra",
+      "description": "Signature: a red hairline ring behind a portrait, hung from the beam by one rope.",
+      "html": "<div class=\"ds-stage\"><span class=\"ds-beam\"></span><div class=\"ds-hung\"><svg class=\"ds-ring\" viewBox=\"0 0 200 200\" aria-hidden=\"true\"><circle cx=\"100\" cy=\"100\" r=\"99\"/></svg><span class=\"ds-rope\"></span><div class=\"ds-photo\"></div></div></div>",
+      "css": ".ds-stage { position: relative; background: #f3bba3; padding: 0 0 40px; overflow: hidden; } .ds-beam { display: block; height: 1.5px; background: #3a0e0c; margin: 0 24px 56px; } .ds-hung { position: relative; isolation: isolate; width: 140px; margin: 0 auto; } .ds-ring { position: absolute; left: 50%; top: 0; z-index: -1; width: 140%; aspect-ratio: 1; translate: -50% -8%; overflow: visible; } .ds-ring circle { fill: none; stroke: #a11f1b; stroke-width: 1.5px; vector-effect: non-scaling-stroke; } .ds-rope { position: absolute; left: 50%; bottom: calc(100% + 7.4%); z-index: -1; width: 1.5px; height: 60px; translate: -50% 0; background: #a11f1b; } .ds-photo { aspect-ratio: 2 / 3; background: linear-gradient(160deg, #f0a28a, #e48d78); }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Lyra Line",
+    "overview": "The page is a studio sweep with rigging in it. A warm peach ground stands in for the paper backdrop of the owner's own photographs, and a single red hoop (the lyra), drawn as one hairline stroke, hangs from the header rule by one rope. Everything else on the page obeys the same physics: photographs hang from hairline beams, inputs sit on hairline underlines, buttons are pills (a hoop seen flat). Ornament is that line and nothing else; the photographs carry all the colour and texture.\n\nDensity is low and the rhythm is generous: wide gutters, tall section spacing, light large type for names and headings, regular type for reading. Depth comes from colour fields, not from shadow: the page drops from the peach ground into a deep red field for About and the footer, and into opaque oxblood for the lightbox. Motion is a single grammar: one exponential ease-out, opacity plus blur, played once, as if a print were developing.\n\nThe build rejects the category default of a dark full-bleed photo with a serif name centred on top, and it has no shadows, cards or boxed containers.",
+    "keyCharacteristics": [
+      "One hairline weight (1.5px) for every rule, beam, rope, underline, pill border and the hoop.",
+      "One face, Jost: light (300) and large for display, regular (400) for reading, medium (500) for labels.",
+      "Peach ground, deep red fields, oxblood ink; red reserved for the hoop, the rope and interaction.",
+      "Pills and circles are the only rounded forms; photographs are square-cornered.",
+      "Photographs develop into view once (opacity, blur, small rise) on one expo ease-out."
+    ],
+    "rules": [
+      {
+        "name": "The Two Fields Rule",
+        "body": "Surfaces are either peach (ground) or Cabaret Red (About, footer); oxblood appears only behind the lightbox. No third surface colour, no tinted cards.",
+        "section": "colors"
+      },
+      {
+        "name": "The Red Belongs to the Hoop Rule",
+        "body": "On peach, Hoop Red is reserved for the hoop, its rope and interaction (link underlines, hover, focus, caret, selection). Structural hairlines (beams, hang lines, pill borders, underlines) and all text stay Oxblood Ink or Faded Ink. The tagline separators are the one place red sits inside a line of text.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Face Rule",
+        "body": "Jost is the only family. Hierarchy comes from size and weight (300 / 400 / 500), never from a second face, italics or uppercase tracking.",
+        "section": "typography"
+      },
+      {
+        "name": "The Light Display Rule",
+        "body": "Headings are weight 300 with tight negative tracking and balanced wrapping; never bold.",
+        "section": "typography"
+      },
+      {
+        "name": "The Hang Rule",
+        "body": "Every photograph grid starts at a hairline beam (a 1.5px top rule) and each plate hangs from it on a 1.5px vertical line centred on the plate, 2.5rem long in the disciplines and running the full column height in the portfolio, so a column reads as one line.",
+        "section": "layout"
+      },
+      {
+        "name": "The No-Lift Rule",
+        "body": "Nothing floats. Hover changes fill, colour, underline offset or a 1.025 image scale inside a clipped frame; it never adds shadow or vertical lift.",
+        "section": "elevation"
+      },
+      {
+        "name": "The One Hairline Rule",
+        "body": "Every rule, frame, underline, rope and ring is 1.5px. The single exception is the 2px focus outline, kept heavier for accessibility.",
+        "section": "shapes"
+      }
+    ],
+    "dos": [
+      "**Do** draw every line at the 1.5px hairline (`--line`), in ink on peach and in Highlight Peach on red.",
+      "**Do** hang new photograph groups from a hairline beam, each image on its own centred line.",
+      "**Do** use the pill (999px, 1.5px border) for every button and a 3rem circle for icon-only controls.",
+      "**Do** bring photographs in once with the develop entrance: opacity 0, 14px blur and a 1.5rem rise, resolving over 1.2-1.4s on cubic-bezier(0.16, 1, 0.3, 1), and skip it under reduced motion.",
+      "**Do** keep text in Oxblood Ink or Faded Ink on peach, and Highlight Peach or Dimmed Peach on red.",
+      "**Do** set headings in Jost 300 with -0.025em tracking."
+    ],
+    "donts": [
+      "**Don't** add box shadows, cards, boxed panels or rounded photo corners.",
+      "**Don't** introduce a second typeface, a serif display name, or a dark full-bleed photo with the name centred on top.",
+      "**Don't** use oxblood as a section surface; it belongs behind the lightbox only.",
+      "**Don't** add a second ornament beside the hoop; the photographs carry colour and texture.",
+      "**Don't** use more than one easing curve or loop an entrance; motion plays once."
+    ]
+  }
+}

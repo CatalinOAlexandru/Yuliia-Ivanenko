@@ -1,0 +1,12 @@
+{
+  "name": "yuliia-ivanenko-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "images": "node scripts/optimize-images.mjs",
+    "serve": "npx --yes serve@14 build -l 4321"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.0"
+  }
+}
